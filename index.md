@@ -1,4 +1,4 @@
-<h1 align="center">Apple 2020 WWDC Swift Student Challenge Winner!</h1>
+<h2 align="center">Apple 2020 WWDC Swift Student Challenge Winner!</h2>
 <p> </p>
 <p align="center"><img src="virus_spread_demo.gif" alt="Demo"></p>
 <h2 align="center">Virus Spread Simulation Demo</h2>
