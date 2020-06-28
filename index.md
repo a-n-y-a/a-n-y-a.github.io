@@ -1,5 +1,4 @@
 <h2 align="center">Virus Spread Simulation</h2>
-<p> </p>
 <h2 align="center">Apple 2020 WWDC Swift Student Challenge Winner!</h2>
 <p> </p>
 <p>The Virus Spread is a simulation which aims to demonstrate the importance of social distancing during a global pandemic. There are colorful balls randomly floating on the screen. They represent people and different colors represent their different statuses: healthy, infected and recovered. When the simulation starts users can observe spread of the virus and tap on healthy balls to put them in a social distancing mode. This way users can see how application of social distancing affects the spread of the virus.</p>
